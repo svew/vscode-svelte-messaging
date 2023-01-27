@@ -1,0 +1,24 @@
+{
+  "name": "vscode-svelte-messaging",
+  "version": "1.0.0",
+  "description": "Framework for sending messages between a VSCode extension host and Svelte webview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svew/vscode-svelte-messaging.git"
+  },
+  "keywords": [
+    "svelte",
+    "vscode",
+    "npm"
+  ],
+  "author": "svew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svew/vscode-svelte-messaging/issues"
+  },
+  "homepage": "https://github.com/svew/vscode-svelte-messaging#readme"
+}
